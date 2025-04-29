@@ -26,9 +26,4 @@ SecretSender is a Python-based Slack bot designed to automate sending Valentine'
 
 ---
 
-## License
-This project is open-source under the [MIT License](LICENSE).
-
----
-
 Made with ❤️ to spread a little more kindness and a little more mystery.
